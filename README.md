@@ -2,6 +2,8 @@
 
 This is a lightweight FastAPI-based web server that wraps a local [Dolphin-2.6-Mistral-7B](https://huggingface.co/cognitivecomputations/dolphin-2.6-mistral-7b) model (in GGUF format via `llama.cpp`) to generate polite, natural voice assistant responses.
 
+Project Slides can be found [here](https://docs.google.com/presentation/d/1QeVgKEGAPWVC-9o9BYS21UK_cQacA2dE/edit?usp=sharing&ouid=111032358271258195671&rtpof=true&sd=true)
+
 ---
 
 ## 📁 Project Structure
